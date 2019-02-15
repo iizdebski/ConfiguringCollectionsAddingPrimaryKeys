@@ -1,3 +1,1 @@
-# HibernateSavingCollection
-
-Saving Collections in Hibernate
+# Configuring Collections and Adding Primary Keys
